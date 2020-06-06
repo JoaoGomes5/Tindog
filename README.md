@@ -1,8 +1,8 @@
-![Recordit GIF](https://recordit.co/1Ff8ssCEmD.gif)
 
 # Tindog
 
 > A simple one page website, bootstrap demo
+![Recordit GIF](https://recordit.co/1Ff8ssCEmD.gif)
 
 # Objective
 
